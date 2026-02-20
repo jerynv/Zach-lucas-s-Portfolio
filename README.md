@@ -54,3 +54,4 @@ npm run build
 ---
 
 Built with assistance from Claude.
+^^^ Yes i put this here willingly.
